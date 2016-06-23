@@ -23,7 +23,7 @@
     <!-- Team points style -->
     <style name="TeamScore">
         <item name="android:textSize">80sp</item>
-        <item name="android:text">0</item>
+        <item name="android:text">@string/startingPoints</item>
         <item name="android:layout_marginBottom">16dp</item>
     </style>
 
