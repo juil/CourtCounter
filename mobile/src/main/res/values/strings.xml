@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Court Counter</string>
-    <string name="team1">Team A</string>
-    <string name="team2">Team B</string>
+    <string name="app_name">Basketball Score Keeper</string>
+    <string name="team1">Home</string>
+    <string name="team2">Away</string>
     <string name="startingPoints">0</string>
     <string name="point3">+ 3 Pointer!</string>
     <string name="point2">+ 2 Points</string>
